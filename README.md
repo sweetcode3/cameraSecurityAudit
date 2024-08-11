@@ -1,4 +1,4 @@
-# IP Camera Vulnerability Scanner
+# cameraSecurityAudit
 
 ## Описание
 
@@ -16,8 +16,8 @@
 1. **Клонируйте репозиторий:**
 
     ```sh
-    git clone https://github.com/yourusername/ip-camera-vulnerability-scanner.git
-    cd ip-camera-vulnerability-scanner
+    git clone https://github.com/sweetcode3/cameraSecurityAudit.git
+    cd cameraSecurityAudit
     ```
 
 2. **Установите зависимости:**
